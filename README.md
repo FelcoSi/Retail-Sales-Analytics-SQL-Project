@@ -1,4 +1,4 @@
-# 🛍️ Retail Sales Analytics SQL Project
+# Retail Sales Analytics SQL Project
 
 This project simulates a business intelligence use case for a retail company. It uses SQL to analyze performance metrics across customers, orders, products, sales reps, and regions. Results were visualized in Tableau to drive actionable insights for stakeholders.
 
